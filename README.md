@@ -10,7 +10,9 @@ Proyek awal perkuliahan.
 Untuk Latihan penggunaan git
 
 ## Rencana Fitur
-Sebuah portofolio yang berisi berbagai informasi pribadi dan proyek yang telah dilakukan
+ 1. Fitur informasi pribadi 
+ 2. proyek yang telah dilakukan
+ 3. menambahkan kontak
 
 ## Cara Menjalankan
 Pada terminal: 
