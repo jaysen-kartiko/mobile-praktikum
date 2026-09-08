@@ -16,10 +16,7 @@ Sebuah portofolio yang berisi berbagai informasi pribadi dan proyek yang telah d
 Pada terminal: 
 
 flutter pub get
-flutter run 
-
-pilih Chrome
-
+flutter run -d chrome
 # flutter_pertemuan_1
 
 A new Flutter project.
