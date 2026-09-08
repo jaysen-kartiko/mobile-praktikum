@@ -6,7 +6,19 @@ Nama panggilan / akun GitHub: https://www.github.com/jaysen-kartiko
 ## Status
 Proyek awal perkuliahan.
 
+## Tujuan 
+Untuk Latihan penggunaan git
 
+## Rencana Fitur
+ 1. Fitur informasi pribadi 
+ 2. proyek yang telah dilakukan
+ 3. menambahkan kontak
+
+## Cara Menjalankan
+Pada terminal: 
+
+flutter pub get
+flutter run -d chrome
 # flutter_pertemuan_1
 
 A new Flutter project.
